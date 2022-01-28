@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning React and Node.js
 - 💞️ I’m looking to collaborate on making responisve websites
 - 📫 You can reach me on:
-      Mail: v.reddy5445@gmail.com
-      Twitter: @curioustab_ly
-      Instagram: Kandadi Varun
+     - Mail: v.reddy5445@gmail.com
+     - Twitter: @curioustab_ly
+     - Instagram: Kandadi Varun
 
 <!---
 Kandadivarun/Kandadivarun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
